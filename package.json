@@ -1,6 +1,7 @@
 {
 	"author": "Bhavin",
 	"name": "fcc-learn-npm-package-json",
+	"description": "this is code camp test",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
